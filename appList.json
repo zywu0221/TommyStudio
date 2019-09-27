@@ -41,20 +41,20 @@
     "icon":"Vector"
 },
 {
+    "id":"1460795742",
+    "name":"iNote",
+    "name_cn":"便签",
+    "desc":"Sticky Notes & Countdown",
+    "desc_cn":"记事计时，一款多功能的实用小工具",
+    "icon":"iNote"
+},
+{
     "id":"1464909790",
     "name":"Mr.Scanner",
     "name_cn":"扫描宝",
     "desc":"OCR,Image To Text",
     "desc_cn":"专业的扫描翻译识别工具",
     "icon":"Scanner"
-},
-{
-    "id":"1460795742",
-    "name":"iNote",
-    "name_cn":"便签",
-    "desc":"Sticky Notes & Countdown",
-    "desc_cn":"记事计时，一款多功能的实用小工具",
-    "icon":"app1"
 }
 
     ]
