@@ -9,6 +9,14 @@
     "icon":"CleanMyDisk"
 },
 {
+    "id":"1488071784",
+    "name":"Wallpapers X",
+    "name_cn":"壁纸精灵",
+    "desc":"700+ HD Wallpapers",
+    "desc_cn":"700张精选高清壁纸",
+    "icon":"Wallpapers"
+},
+{
     "id":"1458785719",
 	"name":"tinyPDF",
 	"name_cn":"PDF压缩器",
@@ -25,6 +33,14 @@
 	"icon":"Translater"
 },
 {
+    "id":"1460795742",
+    "name":"iNote",
+    "name_cn":"便签",
+    "desc":"Sticky Notes & Countdown",
+    "desc_cn":"记事计时，一款多功能的实用小工具",
+    "icon":"iNote"
+},
+{
     "id":"1468927271",
     "name":"Yiboo Player",
     "name_cn":"亿播影音",
@@ -39,22 +55,6 @@
     "desc":"Support 30+ Image Type",
     "desc_cn":"支持30种图片格式转换，全网最强大",
     "icon":"Vector"
-},
-{
-    "id":"1460795742",
-    "name":"iNote",
-    "name_cn":"便签",
-    "desc":"Sticky Notes & Countdown",
-    "desc_cn":"记事计时，一款多功能的实用小工具",
-    "icon":"iNote"
-},
-{
-    "id":"1464909790",
-    "name":"Mr.Scanner",
-    "name_cn":"扫描宝",
-    "desc":"OCR,Image To Text",
-    "desc_cn":"专业的扫描翻译识别工具",
-    "icon":"Scanner"
 }
 
     ]
