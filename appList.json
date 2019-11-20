@@ -17,14 +17,6 @@
     "icon":"Wallpapers"
 },
 {
-    "id":"1458785719",
-	"name":"tinyPDF",
-	"name_cn":"PDF压缩器",
-	"desc":"Compress PDF File with 80%!",
-	"desc_cn":"无损压缩PDF文档，最高可达80%",
-	"icon":"tinyPDF"
-},
-{
     "id":"1467716481",
 	"name":"Mr.Translater",
 	"name_cn":"翻译宝",
@@ -33,20 +25,28 @@
 	"icon":"Translater"
 },
 {
-    "id":"1460795742",
-    "name":"iNote",
-    "name_cn":"便签",
-    "desc":"Sticky Notes & Countdown",
-    "desc_cn":"记事计时，一款多功能的实用小工具",
-    "icon":"iNote"
-},
-{
     "id":"1468927271",
     "name":"Yiboo Player",
     "name_cn":"亿播影音",
     "desc":"4k Video Player,Support 20+ Formats",
     "desc_cn":"全能视频播放器，4K高清，极速体验",
     "icon":"Yiboo"
+},
+{
+    "id":"1460795742",
+    "name":"iNote",
+    "name_cn":"全能小便签",
+    "desc":"Sticky Notes & Countdown",
+    "desc_cn":"记事计时，一款多功能的实用小工具",
+    "icon":"iNote"
+},
+{
+    "id":"1458785719",
+	"name":"tinyPDF",
+	"name_cn":"PDF压缩器",
+	"desc":"Compress PDF File with 80%!",
+	"desc_cn":"无损压缩PDF文档，最高可达80%",
+	"icon":"tinyPDF"
 },
 {
     "id":"1459278881",
