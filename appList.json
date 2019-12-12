@@ -5,10 +5,10 @@
     "name":"CleanMyDisk",
     "name_cn":"清理宝",
     "desc":"Delete Caches & garbage!",
-    "desc_cn":"一键清理缓存垃圾，解放存储空间！",
+    "desc_cn":"一键清理缓存垃圾，释放空间加速电脑！",
     "icon":"CleanMyDisk",
     "name_s":"Disk Cleaner",
-    "name_s_cn":"垃圾缓存清理"
+    "name_s_cn":"电脑清理加速"
 },
 {
     "id":"1488071784",
@@ -17,7 +17,7 @@
     "desc":"700+ HD Wallpapers",
     "desc_cn":"700张精选高清唯美壁纸",
     "icon":"Wallpapers",
-    "name_s":"Wallpapers",
+    "name_s":"Wallpapers HD",
     "name_s_cn":"唯美高清壁纸"
 },
 {
@@ -25,7 +25,7 @@
 	"name":"Mr.Translater",
 	"name_cn":"翻译宝",
     "desc":"Easy & Fast Translate Tool",
-	"desc_cn":"最便捷实用的翻译神器",
+	"desc_cn":"一键截图翻译神器",
     "icon":"Translater",
     "name_s":"Translater",
     "name_s_cn":"便捷翻译神器"
