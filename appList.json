@@ -28,7 +28,17 @@
 	"desc_cn":"一键截图翻译神器",
     "icon":"Translater",
     "name_s":"Translater",
-    "name_s_cn":"便捷翻译神器"
+    "name_s_cn":"截图翻译神器"
+},
+{
+    "id":"1460795742",
+    "name":"iNote",
+    "name_cn":"全能小便签",
+    "desc":"Sticky Notes & Countdown",
+    "desc_cn":"记事计时，一款多功能的实用小工具",
+    "icon":"iNote",
+    "name_s":"Sticky Notes",
+    "name_s_cn":"便签条倒计时",
 },
 {
     "id":"1468927271",
@@ -39,16 +49,6 @@
     "icon":"Yiboo",
     "name_s":"Video Player",
     "name_s_cn":"极速影音播放"
-},
-{
-    "id":"1460795742",
-    "name":"iNote",
-    "name_cn":"全能小便签",
-    "desc":"Sticky Notes & Countdown",
-    "desc_cn":"记事计时，一款多功能的实用小工具",
-    "icon":"iNote",
-    "name_s":"Sticky Notes",
-    "name_s_cn":"倒计时小便签"
 },
 {
     "id":"1458785719",
