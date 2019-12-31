@@ -21,26 +21,6 @@
     "name_s_cn":"唯美高清壁纸"
 },
 {
-    "id":"1467716481",
-	"name":"Mr.Translater",
-	"name_cn":"翻译宝",
-    "desc":"Easy & Fast Translate Tool",
-	"desc_cn":"一键截图翻译神器",
-    "icon":"Translater",
-    "name_s":"Translater",
-    "name_s_cn":"截图翻译神器"
-},
-{
-    "id":"1460795742",
-    "name":"iNote",
-    "name_cn":"全能小便签",
-    "desc":"Sticky Notes & Countdown",
-    "desc_cn":"记事计时，一款多功能的实用小工具",
-    "icon":"iNote",
-    "name_s":"Sticky Notes",
-    "name_s_cn":"便签条倒计时",
-},
-{
     "id":"1468927271",
     "name":"Yiboo Player",
     "name_cn":"亿播影音",
@@ -49,6 +29,16 @@
     "icon":"Yiboo",
     "name_s":"Video Player",
     "name_s_cn":"极速影音播放"
+},
+{
+    "id":"1467716481",
+	"name":"Mr.Translater",
+	"name_cn":"翻译宝",
+    "desc":"Easy & Fast Translate Tool",
+	"desc_cn":"一键截图翻译神器",
+    "icon":"Translater",
+    "name_s":"Translater",
+    "name_s_cn":"截图翻译神器"
 },
 {
     "id":"1458785719",
@@ -69,6 +59,16 @@
     "icon":"Vector",
     "name_s":"Image Converter",
     "name_s_cn":"图片格式转换"
+},
+{
+    "id":"1460795742",
+    "name":"iNote",
+    "name_cn":"全能小便签",
+    "desc":"Sticky Notes & Countdown",
+    "desc_cn":"记事计时，一款多功能的实用小工具",
+    "icon":"iNote",
+    "name_s":"Sticky Notes",
+    "name_s_cn":"便签条倒计时"
 }
 
     ]
