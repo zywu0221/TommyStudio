@@ -1,5 +1,5 @@
 {
-	"data":[
+    "data":[
 {
     "id":"1459987506",
     "name":"CleanMyDisk",
@@ -22,20 +22,20 @@
 },
 {
     "id":"1467716481",
-	"name":"Mr.Translater",
-	"name_cn":"翻译宝",
+    "name":"Mr.Translater",
+    "name_cn":"翻译宝",
     "desc":"Easy & Fast Translate Tool",
-	"desc_cn":"一键截图翻译神器",
+    "desc_cn":"一键截图翻译神器",
     "icon":"Translater",
     "name_s":"Translater",
     "name_s_cn":"截图翻译神器"
 },
 {
     "id":"1458785719",
-	"name":"tinyPDF",
-	"name_cn":"PDF压缩器",
-	"desc":"Compress PDF File with 80%!",
-	"desc_cn":"无损压缩PDF文档，最高可达80%",
+    "name":"tinyPDF",
+    "name_cn":"PDF压缩器",
+    "desc":"Compress PDF File with 80%!",
+    "desc_cn":"无损压缩PDF文档，最高可达80%",
     "icon":"tinyPDF",
     "name_s":"Compress PDF",
     "name_s_cn":"PDF压缩器"
@@ -51,6 +51,16 @@
     "name_s_cn":"图片格式转换"
 },
 {
+    "id":"1494964992",
+    "name":"PNG Compressor",
+    "name_cn":"图片无损压缩",
+    "desc":"Compress png/jpg by 90%",
+    "desc_cn":"无损压缩PNG/JPG，减小90%体积",
+    "icon":"PngCompress",
+    "name_s":"PNG Compressor",
+    "name_s_cn":"图片无损压缩"
+},
+{
     "id":"1460795742",
     "name":"iNote",
     "name_cn":"全能小便签",
@@ -60,6 +70,5 @@
     "name_s":"Sticky Notes",
     "name_s_cn":"便签条倒计时"
 }
-
     ]
 }
