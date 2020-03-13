@@ -69,6 +69,26 @@
     "icon":"iNote",
     "name_s":"Sticky Notes",
     "name_s_cn":"便签条倒计时"
+},
+{
+    "id":"1498325923",
+    "name":"WindowsHider",
+    "name_cn":"窗口隐藏器",
+    "desc":"Hide All Windows By Click Corner",
+    "desc_cn":"点击屏幕右下角隐藏全面窗口",
+    "icon":"Hider",
+    "name_s":"WindowsHider",
+    "name_s_cn":"窗口隐藏器"
+},
+{
+    "id":"1461656044",
+    "name":"iDock",
+    "name_cn":"迷你程序坞",
+    "desc":"Mini Dock",
+    "desc_cn":"定制您的程序坞",
+    "icon":"iDock",
+    "name_s":"Mini Dock",
+    "name_s_cn":"迷你程序坞"
 }
     ]
 }
