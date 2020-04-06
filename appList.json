@@ -89,6 +89,16 @@
     "icon":"iDock",
     "name_s":"Mini Dock",
     "name_s_cn":"迷你程序坞"
+},
+{
+    "id":"1504115041",
+    "name":"iRecorder X",
+    "name_cn":"录音宝",
+    "desc":"Audio Recorder",
+    "desc_cn":"快捷键操作，一键录音神器",
+    "icon":"iRecorder",
+    "name_s":"Audio Recorder",
+    "name_s_cn":"录音神器"
 }
     ]
 }
