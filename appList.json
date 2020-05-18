@@ -31,6 +31,16 @@
     "name_s_cn":"截图翻译神器"
 },
 {
+    "id":"1460795742",
+    "name":"iNote",
+    "name_cn":"全能小便签",
+    "desc":"Sticky Notes & Countdown",
+    "desc_cn":"记事计时，一款多功能的实用小工具",
+    "icon":"iNote",
+    "name_s":"Sticky Notes",
+    "name_s_cn":"便签条倒计时"
+},
+{
     "id":"1510253702",
     "name":"iFolder",
     "name_cn":"彩色文件夹",
@@ -69,16 +79,6 @@
     "icon":"PngCompress",
     "name_s":"PNG Compressor",
     "name_s_cn":"图片无损压缩"
-},
-{
-    "id":"1460795742",
-    "name":"iNote",
-    "name_cn":"全能小便签",
-    "desc":"Sticky Notes & Countdown",
-    "desc_cn":"记事计时，一款多功能的实用小工具",
-    "icon":"iNote",
-    "name_s":"Sticky Notes",
-    "name_s_cn":"便签条倒计时"
 },
 {
     "id":"1498325923",
