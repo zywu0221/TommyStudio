@@ -31,6 +31,16 @@
     "name_s_cn":"截图翻译神器"
 },
 {
+    "id":"1510253702",
+    "name":"iFolder",
+    "name_cn":"彩色文件夹",
+    "desc":"Colorful Folder",
+    "desc_cn":"一键定制彩色文件夹图标",
+    "icon":"iFolder",
+    "name_s":"ColorFolder",
+    "name_s_cn":"彩色文件夹"
+},
+{
     "id":"1458785719",
     "name":"tinyPDF",
     "name_cn":"PDF压缩器",
@@ -95,10 +105,10 @@
     "name":"iRecorder X",
     "name_cn":"录音宝",
     "desc":"Audio Recorder",
-    "desc_cn":"快捷键操作，一键录音神器",
+    "desc_cn":"快捷录音神器",
     "icon":"iRecorder",
     "name_s":"Audio Recorder",
-    "name_s_cn":"录音神器"
+    "name_s_cn":"快捷录音口语练习"
 }
     ]
 }
