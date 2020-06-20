@@ -1,6 +1,16 @@
 {
     "data":[
 {
+    "id":"1513816782",
+    "name":"iUnarchiver",
+    "name_cn":"解压宝",
+    "desc":"Unzip .Rar .7z .tar .iso .pkg .bz etc...",
+    "desc_cn":"全能解压缩王，一键解压文件，支持30多种格式",
+    "icon":"iUnarchiver",
+    "name_s":"Unzip Rar 7z",
+    "name_s_cn":"全能解压王"
+},
+{
     "id":"1459987506",
     "name":"CleanMyDisk",
     "name_cn":"清理宝",
@@ -21,12 +31,12 @@
     "name_s_cn":"唯美高清壁纸"
 },
 {
-    "id":"1513816782",
-    "name":"iUnarchiver",
-    "name_cn":"解压宝",
+    "id":"1514944014",
+    "name":"Pro Unarchiver",
+    "name_cn":"解压宝专业版",
     "desc":"Unzip .Rar .7z .tar .iso .pkg .bz etc...",
-    "desc_cn":"全能解压缩王，直接预览一件解压，支持30多种格式",
-    "icon":"iUnarchiver",
+    "desc_cn":"一键解压文件，支持30多种格式",
+    "icon":"iUnarchiverPro",
     "name_s":"Unzip Rar 7z",
     "name_s_cn":"全能解压王"
 },
