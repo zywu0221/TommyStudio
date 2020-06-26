@@ -73,12 +73,22 @@
 {
     "id":"1460795742",
     "name":"iNote",
-    "name_cn":"全能小便签",
+    "name_cn":"多功能便签笔记",
     "desc":"Sticky Notes & Countdown",
     "desc_cn":"记事计时，一款多功能的实用小工具",
     "icon":"iNote",
     "name_s":"Sticky Notes",
     "name_s_cn":"记事倒计时"
+},
+{
+    "id":"1520218558",
+    "name":"ePaste",
+    "name_cn":"易剪贴",
+    "desc":"Clipboard Manager",
+    "desc_cn":"自动归类剪贴板",
+    "icon":"ePaste",
+    "name_s":"Clipboard",
+    "name_s_cn":"智能剪贴板"
 },
 {
     "id":"1459278881",
