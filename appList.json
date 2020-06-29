@@ -7,7 +7,7 @@
     "desc":"Unzip .Rar .7z .tar .iso .pkg .bz etc...",
     "desc_cn":"全能解压缩王，一键解压文件，支持30多种格式",
     "icon":"iUnarchiver",
-    "name_s":"Unzip Rar 7z",
+    "name_s":"iUnarchiver",
     "name_s_cn":"全能解压王"
 },
 {
@@ -31,14 +31,14 @@
     "name_s_cn":"唯美高清壁纸"
 },
 {
-    "id":"1514944014",
-    "name":"Pro Unarchiver",
-    "name_cn":"解压宝专业版",
-    "desc":"Unzip .Rar .7z .tar .iso .pkg .bz etc...",
-    "desc_cn":"一键解压文件，支持30多种格式",
-    "icon":"iUnarchiverPro",
-    "name_s":"Unzip Rar 7z",
-    "name_s_cn":"全能解压王"
+    "id":"1510253702",
+    "name":"iFolder",
+    "name_cn":"七彩文件夹",
+    "desc":"Colorful Folder",
+    "desc_cn":"一键定制彩色文件夹图标",
+    "icon":"iFolder",
+    "name_s":"ColorFolder",
+    "name_s_cn":"七彩文件夹"
 },
 {
     "id":"1467716481",
@@ -51,6 +51,16 @@
     "name_s_cn":"截图翻译神器"
 },
 {
+    "id":"1514944014",
+    "name":"Pro Unarchiver",
+    "name_cn":"解压宝专业版",
+    "desc":"Unzip .Rar .7z .tar .iso .pkg .bz etc...",
+    "desc_cn":"一键解压文件，支持30多种格式",
+    "icon":"iUnarchiverPro",
+    "name_s":"iUnarchiver Pro",
+    "name_s_cn":"全能解压王"
+},
+{
     "id":"1458785719",
     "name":"tinyPDF",
     "name_cn":"PDF压缩器",
@@ -59,16 +69,6 @@
     "icon":"tinyPDF",
     "name_s":"Compress PDF",
     "name_s_cn":"PDF压缩器"
-},
-{
-    "id":"1510253702",
-    "name":"iFolder",
-    "name_cn":"七彩文件夹",
-    "desc":"Colorful Folder",
-    "desc_cn":"一键定制彩色文件夹图标",
-    "icon":"iFolder",
-    "name_s":"ColorFolder",
-    "name_s_cn":"七彩文件夹"
 },
 {
     "id":"1460795742",
