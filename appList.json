@@ -31,24 +31,24 @@
     "name_s_cn":"唯美高清壁纸"
 },
 {
-    "id":"1510253702",
-    "name":"iFolder",
-    "name_cn":"七彩文件夹",
-    "desc":"Colorful Folder",
-    "desc_cn":"一键定制彩色文件夹图标",
-    "icon":"iFolder",
-    "name_s":"ColorFolder",
-    "name_s_cn":"七彩文件夹"
-},
-{
     "id":"1467716481",
     "name":"Mr.Translater",
     "name_cn":"翻译宝",
     "desc":"Easy & Fast Translate Tool",
-    "desc_cn":"一键截图翻译神器",
+    "desc_cn":"截屏翻译，文本翻译神器",
     "icon":"Translater",
     "name_s":"Translater",
-    "name_s_cn":"截图翻译神器"
+    "name_s_cn":"截屏翻译神器"
+},
+{
+    "id":"1459278881",
+    "name":"Vector Converter X",
+    "name_cn":"图片格式转换器",
+    "desc":"Support 30+ Image Type",
+    "desc_cn":"支持30种图片格式转换，全网最强大",
+    "icon":"Vector",
+    "name_s":"Image Converter",
+    "name_s_cn":"图片格式转换"
 },
 {
     "id":"1514944014",
@@ -58,17 +58,17 @@
     "desc_cn":"一键解压文件，支持30多种格式",
     "icon":"iUnarchiverPro",
     "name_s":"iUnarchiver Pro",
-    "name_s_cn":"全能解压王"
+    "name_s_cn":"解压宝Pro"
 },
 {
-    "id":"1458785719",
-    "name":"tinyPDF",
-    "name_cn":"PDF压缩器",
-    "desc":"Compress PDF File with 80%!",
-    "desc_cn":"无损压缩PDF文档，最高可达80%",
-    "icon":"tinyPDF",
-    "name_s":"Compress PDF",
-    "name_s_cn":"PDF压缩器"
+    "id":"1510253702",
+    "name":"iFolder",
+    "name_cn":"七彩文件夹",
+    "desc":"Colorful Folder",
+    "desc_cn":"一键定制彩色文件夹图标",
+    "icon":"iFolder",
+    "name_s":"ColorFolder",
+    "name_s_cn":"七彩文件夹"
 },
 {
     "id":"1460795742",
@@ -81,6 +81,16 @@
     "name_s_cn":"记事倒计时"
 },
 {
+    "id":"1458785719",
+    "name":"tinyPDF",
+    "name_cn":"PDF压缩器",
+    "desc":"Compress PDF File with 80%!",
+    "desc_cn":"无损压缩PDF文档，最高可达80%",
+    "icon":"tinyPDF",
+    "name_s":"Compress PDF",
+    "name_s_cn":"PDF压缩器"
+},
+{
     "id":"1520218558",
     "name":"ePaste",
     "name_cn":"易剪贴",
@@ -89,16 +99,6 @@
     "icon":"ePaste",
     "name_s":"Clipboard",
     "name_s_cn":"智能剪贴板"
-},
-{
-    "id":"1459278881",
-    "name":"Vector Converter X",
-    "name_cn":"图片格式转换器",
-    "desc":"Support 30+ Image Type",
-    "desc_cn":"支持30种图片格式转换，全网最强大",
-    "icon":"Vector",
-    "name_s":"Image Converter",
-    "name_s_cn":"图片格式转换"
 },
 {
     "id":"1494964992",
