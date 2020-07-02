@@ -63,12 +63,12 @@
 {
     "id":"1510253702",
     "name":"iFolder",
-    "name_cn":"七彩文件夹",
+    "name_cn":"换文件夹图标",
     "desc":"Colorful Folder",
     "desc_cn":"一键定制彩色文件夹图标",
     "icon":"iFolder",
     "name_s":"ColorFolder",
-    "name_s_cn":"七彩文件夹"
+    "name_s_cn":"彩色文件夹"
 },
 {
     "id":"1460795742",
