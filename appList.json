@@ -61,6 +61,16 @@
     "name_s_cn":"解压宝Pro"
 },
 {
+    "id":"1458785719",
+    "name":"tinyPDF",
+    "name_cn":"PDF压缩器",
+    "desc":"Compress PDF File with 80%!",
+    "desc_cn":"无损压缩PDF文档，最高可达80%",
+    "icon":"tinyPDF",
+    "name_s":"Compress PDF",
+    "name_s_cn":"PDF压缩器"
+},
+{
     "id":"1510253702",
     "name":"iFolder",
     "name_cn":"换文件夹图标",
@@ -79,16 +89,6 @@
     "icon":"iNote",
     "name_s":"Sticky Notes",
     "name_s_cn":"记事倒计时"
-},
-{
-    "id":"1458785719",
-    "name":"tinyPDF",
-    "name_cn":"PDF压缩器",
-    "desc":"Compress PDF File with 80%!",
-    "desc_cn":"无损压缩PDF文档，最高可达80%",
-    "icon":"tinyPDF",
-    "name_s":"Compress PDF",
-    "name_s_cn":"PDF压缩器"
 },
 {
     "id":"1520218558",
