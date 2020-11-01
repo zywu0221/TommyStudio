@@ -1,15 +1,5 @@
 {
     "data":[
-  {
-    "id":"1530730911",
-    "name":"优淘",
-    "name_cn":"优淘",
-    "desc":"精选好货海量优惠券，边购物边省钱",
-    "desc_cn":"精选好货海量优惠券，边购物边省钱！",
-    "icon":"Coupon",
-    "name_s":"优淘",
-    "name_s_cn":"边购物边省钱"
-},
 {
     "id":"1513816782",
     "name":"iUnarchiver",
@@ -45,7 +35,7 @@
     "name":"Mr.Translater",
     "name_cn":"翻译宝",
     "desc":"Easy & Fast Translate Tool",
-    "desc_cn":"截屏翻译，文本翻译神器",
+    "desc_cn":"截屏翻译文本翻译神器",
     "icon":"Translater",
     "name_s":"Translater",
     "name_s_cn":"截屏翻译神器"
@@ -89,6 +79,16 @@
     "icon":"iFolder",
     "name_s":"ColorFolder",
     "name_s_cn":"彩色文件夹"
+},
+{
+    "id":"1530730911",
+    "name":"优淘",
+    "name_cn":"优淘",
+    "desc":"Tabao Tmall",
+    "desc_cn":"精选好货海量优惠券，边购物边省钱！",
+    "icon":"Coupon",
+    "name_s":"Taobao Coupon",
+    "name_s_cn":"淘宝优惠券"
 },
 {
     "id":"1460795742",
