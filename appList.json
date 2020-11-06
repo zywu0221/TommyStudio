@@ -11,6 +11,16 @@
     "name_s_cn":"电脑清理加速"
 },
 {
+    "id":"1538278154",
+    "name":"The Unzipper",
+    "name_cn":"全能解压王",
+    "desc":"Unzip rar 7z",
+    "desc_cn":"极速批量解压缩，支持30种格式",
+    "icon":"Unzipper",
+    "name_s":"Unzip rar 7z",
+    "name_s_cn":"全能解压王"
+},
+{
     "id":"1488071784",
     "name":"Wallpapers X",
     "name_cn":"壁纸精灵",
@@ -18,7 +28,7 @@
     "desc_cn":"700张精选高清唯美壁纸",
     "icon":"Wallpapers",
     "name_s":"Wallpapers HD",
-    "name_s_cn":"唯美高清壁纸"
+    "name_s_cn":"高清唯美壁纸"
 },
 {
     "id":"1467716481",
@@ -28,7 +38,7 @@
     "desc_cn":"截屏翻译，文本翻译神器",
     "icon":"Translater",
     "name_s":"Translater",
-    "name_s_cn":"截屏翻译神器"
+    "name_s_cn":"截屏翻译器"
 },
 {
     "id":"1459278881",
