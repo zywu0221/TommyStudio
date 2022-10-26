@@ -1,20 +1,10 @@
 {
     "data":[
-        {
-    "id":"1488071784",
-    "name":"Wallpapers X",
-    "name_cn":"壁纸精灵",
-    "desc":"700+ HD Wallpapers",
-    "desc_cn":"千张精选高清唯美壁纸",
-    "icon":"Wallpapers",
-    "name_s":"Wallpapers HD",
-    "name_s_cn":"高清唯美壁纸"
-},
 {
     "id":"1459987506",
     "name":"CleanMyDisk",
     "name_cn":"清理宝",
-    "desc":"Delete Caches & garbage!",
+    "desc":"CleanUp Caches & garbage!",
     "desc_cn":"一键清理缓存垃圾，释放空间加速电脑！",
     "icon":"CleanMyDisk",
     "name_s":"Disk Cleaner",
@@ -31,13 +21,13 @@
     "name_s_cn":"全能解压王"
 },
 {
-    "id":"1538330380",
-    "name":"WallpapersPro",
-    "name_cn":"壁纸精灵Pro",
-    "desc":"700+ 4K Wallpapers",
-    "desc_cn":"700张精选高清唯美壁纸",
-    "icon":"WallpapersPro",
-    "name_s":"4K Wallpapers",
+    "id":"1488071784",
+    "name":"Wallpapers X",
+    "name_cn":"壁纸精灵",
+    "desc":"1000+ HD Wallpapers",
+    "desc_cn":"1000张精选高清唯美壁纸",
+    "icon":"Wallpapers",
+    "name_s":"Wallpapers HD",
     "name_s_cn":"高清唯美壁纸"
 },
 {
@@ -45,7 +35,7 @@
     "name":"Mr.Translater",
     "name_cn":"翻译宝",
     "desc":"Easy & Fast Translate Tool",
-    "desc_cn":"截屏翻译，文本翻译神器",
+    "desc_cn":"截屏翻译神器,图片转文字",
     "icon":"Translater",
     "name_s":"Translater",
     "name_s_cn":"截屏翻译器"
@@ -61,6 +51,16 @@
     "name_s_cn":"图片格式转换"
 },
 {
+    "id":"1562482590",
+    "name":"Stay Focused",
+    "name_cn":"专注宝",
+    "desc":"Pomodoro Technique Timer",
+    "desc_cn":"一款基于番茄工作法的效率app",
+    "icon":"StayFocused",
+    "name_s":"Be Focused",
+    "name_s_cn":"番茄工作计时"
+},
+{
     "id":"1458785719",
     "name":"tinyPDF",
     "name_cn":"PDF压缩器",
@@ -69,6 +69,26 @@
     "icon":"tinyPDF",
     "name_s":"Compress PDF",
     "name_s_cn":"PDF压缩器"
+},
+{
+    "id":"1564654090",
+    "name":"iZen",
+    "name_cn":"禅音",
+    "desc":"Compress PDF File with 80%!",
+    "desc_cn":"让人放松专注的背景音乐，效率提升",
+    "icon":"iZen",
+    "name_s":"Focuse Noise",
+    "name_s_cn":"白噪音更专注"
+},
+{
+    "id":"1538330380",
+    "name":"WallpapersPro",
+    "name_cn":"壁纸精灵Pro",
+    "desc":"800+ 4K Wallpapers",
+    "desc_cn":"1000张精选高清唯美壁纸",
+    "icon":"WallpapersPro",
+    "name_s":"4K Wallpapers",
+    "name_s_cn":"高清唯美壁纸"
 },
 {
     "id":"1510253702",
