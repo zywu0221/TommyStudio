@@ -41,6 +41,16 @@
     "name_s_cn":"截屏翻译器"
 },
 {
+    "id":"1625828983",
+    "name":"iDays",
+    "name_cn":"小倒数",
+    "desc":"CountDown Days",
+    "desc_cn":"倒数日桌面小组件",
+    "icon":"iDays",
+    "name_s":"CountDown Days",
+    "name_s_cn":"倒数日桌面小组件"
+},
+{
     "id":"1459278881",
     "name":"Vector Converter X",
     "name_cn":"图片格式转换器",
