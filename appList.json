@@ -41,14 +41,14 @@
     "name_s_cn":"截屏翻译器"
 },
 {
-    "id":"1625828983",
-    "name":"iDays",
-    "name_cn":"小倒数",
-    "desc":"CountDown Days",
-    "desc_cn":"倒数日桌面小组件",
-    "icon":"iDays",
-    "name_s":"CountDown Days",
-    "name_s_cn":"倒数日桌面小组件"
+    "id":"1564654090",
+    "name":"iZen",
+    "name_cn":"禅音",
+    "desc":"Compress PDF File with 80%!",
+    "desc_cn":"让人放松专注的背景音乐，效率提升",
+    "icon":"iZen",
+    "name_s":"Focuse Noise",
+    "name_s_cn":"白噪音更专注"
 },
 {
     "id":"1459278881",
@@ -81,14 +81,14 @@
     "name_s_cn":"PDF压缩器"
 },
 {
-    "id":"1564654090",
-    "name":"iZen",
-    "name_cn":"禅音",
-    "desc":"Compress PDF File with 80%!",
-    "desc_cn":"让人放松专注的背景音乐，效率提升",
-    "icon":"iZen",
-    "name_s":"Focuse Noise",
-    "name_s_cn":"白噪音更专注"
+    "id":"1625828983",
+    "name":"iDays",
+    "name_cn":"小倒数",
+    "desc":"CountDown Days",
+    "desc_cn":"倒数日桌面小组件",
+    "icon":"iDays",
+    "name_s":"CountDown Days",
+    "name_s_cn":"倒数日桌面小组件"
 },
 {
     "id":"1538330380",
